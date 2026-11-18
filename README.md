@@ -5,7 +5,7 @@ A video block for Editor.js: paste a YouTube or Vimeo link, add a title and a po
 ## Install
 
 ```
-npm i github:Speedfreakhorror-Official/editorjs-video
+npm i github:speedfreakhorror/editorjs-video
 ```
 
 Import the tool and its stylesheet:

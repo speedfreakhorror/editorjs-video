@@ -1,6 +1,6 @@
 {
   "name": "editorjs-video",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A video block for Editor.js: paste a YouTube or Vimeo link, add a title and a poster; hosts can add providers and an upload.",
   "private": false,
   "license": "MIT",
